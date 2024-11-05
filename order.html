@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Форма заказа фотографий</title>
+    <link rel="stylesheet" href="navigation.css">
+    <link rel="stylesheet" href="main.css">
+    <script src="nav.js" defer></script>
+
+
+</head>
+
+<body>
+    <header id="header-placeholder"></header>
+    <main>
+        <h1>Форма заказа и отзывов на фотографии из путешествия</h1>
+
+        <form action="https://echo.free.beeceptor.com" method="post" target="_blank">
+            <input type="hidden" name="product_id" value="photo123">
+
+            <label for="name">Имя:</label>
+            <input type="text" id="name" name="customer_name" value="Anon" required><br><br>
+
+            <label for="email">Электронная почта:</label>
+            <input type="text" id="email" name="customer_email" value="anon@no.email" required><br><br>
+
+            <label for="quantity">Количество фотографий:</label>
+            <input type="number" id="quantity" name="photo_quantity" min="1" max="100" value="1" required><br><br>
+
+            <p>Тип печати:</p>
+            <input type="radio" id="matte" name="print_type" value="matte" checked>
+            <label for="matte">Матовая</label><br>
+            <input type="radio" id="glossy" name="print_type" value="glossy">
+            <label for="glossy">Глянцевая</label><br><br>
+
+            <p>Дополнительные услуги:</p>
+            <input type="checkbox" id="frame" name="extra_services" value="frame">
+            <label for="frame">Оформить в рамку</label><br>
+            <input type="checkbox" id="retouch" name="extra_services" value="retouch">
+            <label for="retouch">Цветокоррекция и ретушь</label><br><br>
+
+            <label for="delivery_date">Дата доставки:</label>
+            <input type="date" id="delivery_date" name="delivery_date" value="2025-01-01" required><br><br>
+
+            <label for="password">Пароль для личного кабинета:</label>
+            <input type="password" id="password" name="customer_password" value="pa$$word" required><br><br>
+
+            <label for="feedback">Отзыв:</label><br>
+            <textarea id="feedback" name="customer_feedback" rows="4"
+                cols="50">Очень понравились фотографии!</textarea><br><br>
+
+            <button type="submit">Отправить заказ</button>
+            <button type="reset">Сбросить</button>
+        </form>
+    </main>
+</body>
+
+</html>

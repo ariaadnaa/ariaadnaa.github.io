@@ -1,0 +1,47 @@
+:root {
+    font-size: 16px;
+
+}
+
+h1 {
+    color: rgb(175, 50, 46);
+    background-color: rgb(141, 173, 218);
+    padding: 8px;
+}
+
+main {
+    margin-left: 5rem;
+    padding: 1rem;
+
+}
+
+.link-text2{color: lightgoldenrodyellow}
+
+body {
+    color: azure;
+    background-color: brown;
+    margin: 0;
+    padding: 0;
+}
+
+body::-webkit-scrollbar {
+    width: 0.25rem
+}
+
+body::-webkit-scrollbar-track {
+    background: brown;
+}
+
+
+body::-webkit-scrollbar-thumb {
+
+    background: rgb(155, 194, 225);
+}
+
+
+p {
+    color: azure;
+    background-color: brown;
+    padding: 10px;
+    
+}

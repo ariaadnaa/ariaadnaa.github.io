@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf8">
+    <title>Паспорт</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="navigation.css">
+    <link rel="stylesheet" href="main.css">
+    <script src="nav.js" defer></script>
+    <script src="algo.js" defer></script>
+
+    <style>
+        .inputs {
+            margin: 4vh;
+        }
+    </style>
+</head>
+
+<body>
+    <header id="header-placeholder"></header>
+
+    <main>
+        <h1>Алгоритм</h1>
+
+        <h2>Дано вещественное число A. Вычислить x = 0 при a > 100; x = a при a меньше 61, в противном случае x=a**4.
+        </h2>
+
+        <form action="https://echo.free.beeceptor.com" method="post" target="_blank">
+            <input type="hidden" name="description"
+                value="Дано вещественное число A. Вычислить x = 0 при a > 100; x = a при a меньше 61, в противном случае x=a**4">
+
+            <div class="inputs">
+
+                Введите число А:
+                <input type="number" id="num-a" name="num-a" value="5" required>
+
+                <br>
+                <br>
+
+                Результат:
+                <input type="number" id="num-result" name="num-result" value="" readonly required>
+
+            </div>
+
+            <input type="button" name="num-result" value="Решить задачу" onclick="solveTask();" required>
+
+            <button type="submit">Отправить</button>
+            <button type="reset">Сбросить</button>
+        </form>
+    </main>
+</body>
+
+</html>
