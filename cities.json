@@ -1,0 +1,86 @@
+[
+    {
+        "city": "Paris",
+        "country": "France",
+        "date": "2024-06-01",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Eiffel_tower-Paris.jpg"
+    },
+    {
+        "city": "Maisons-Laffitte",
+        "country": "France",
+        "date": "2024-06-05",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ch%C3%A2teau_de_Maisons-Laffitte_001.jpg/1030px-Ch%C3%A2teau_de_Maisons-Laffitte_001.jpg"
+    },
+    {
+        "city": "Versailles",
+        "country": "France",
+        "date": "2024-06-07",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_October_5%2C_2011.jpg/1084px-Cour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_October_5%2C_2011.jpg"
+    },
+    {
+        "city": "Luxemburg",
+        "country": "Luxemburg",
+        "date": "2024-06-10",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Luxembourg_City_Night_Wikimedia_Commons.jpg/1599px-Luxembourg_City_Night_Wikimedia_Commons.jpg"
+    },
+    {
+        "city": "Milano",
+        "country": "Italy",
+        "date": "2024-06-12",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Facade_-_Duomo_-_Milan_2014_%289%29.JPG/1024px-Facade_-_Duomo_-_Milan_2014_%289%29.JPG"
+    },
+    {
+        "city": "Lugano",
+        "country": "Switzerland",
+        "date": "2024-06-14",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lago_di_Lugano_at_Sunset_%28cropped_2%29.jpg/2560px-Lago_di_Lugano_at_Sunset_%28cropped_2%29.jpg"
+    },
+    {
+        "city": "Como",
+        "country": "Italy",
+        "date": "2024-06-16",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/La_citt%C3%A0_di_Como_e_il_suo_lago.jpg/2560px-La_citt%C3%A0_di_Como_e_il_suo_lago.jpg"
+    },
+    {
+        "city": "Genua",
+        "country": "Italy",
+        "date": "2024-06-18",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Genova_Piazza_de_Ferrari_11.jpg/2560px-Genova_Piazza_de_Ferrari_11.jpg"
+    },
+    {
+        "city": "La Spezia",
+        "country": "Italy",
+        "date": "2024-06-20",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/La_Spezia_port_view.jpg/2560px-La_Spezia_port_view.jpg"
+    },
+    {
+        "city": "Cinque Terre",
+        "country": "Italy",
+        "date": "2024-06-22",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1_vernazza_2012.jpg/2560px-1_vernazza_2012.jpg"
+    },
+    {
+        "city": "Florence",
+        "country": "Italy",
+        "date": "2024-06-24",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panorama_of_the_Ponte_Vecchio_in_Florence%2C_Italy.jpg/1280px-Panorama_of_the_Ponte_Vecchio_in_Florence%2C_Italy.jpg"
+    },
+    {
+        "city": "Rome",
+        "country": "Italy",
+        "date": "2024-06-26",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/1084px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg"
+    },
+    {
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "date": "2024-06-28",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg/1280px-St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg"
+    },
+    {
+        "city": "Venice",
+        "country": "Italy",
+        "date": "2024-06-30",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Santa_Maria_della_Salute_%2850428075772%29.jpg/1080px-Santa_Maria_della_Salute_%2850428075772%29.jpg"
+    }
+]
